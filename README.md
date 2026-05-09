@@ -29,12 +29,11 @@ Messages written to the device are enqueued into a shared kernel queue. Reads de
 ---
 
 ## Repository Files
-
-- `rustqueue.rs` — Rust kernel module source
-- `Makefile` — kernel build configuration
-- `README.md` — project documentation
 - `.gitignore` — ignores generated build artifacts
 - `LICENSE` — GPL-2.0 license file
+- `Makefile` — kernel build configuration
+- `README.md` — project documentation
+- `rustqueue.rs` — Rust kernel module source
 
 ---
 
